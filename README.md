@@ -1,5 +1,5 @@
 
-# Study at the computer academy [STEP](https://vitebsk.itstep.by/)
+# My SUMMARY
 Specialty | Full Stack Developer 
 --- | --- 
 ---
